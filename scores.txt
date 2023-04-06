@@ -1,0 +1,6 @@
+ang	7
+katara	4
+zuko	6
+sokka	3
+toph	5
+appa	3
